@@ -9,7 +9,7 @@ android {
     compileSdk 33
     buildToolsVersion "30.0.3"
     defaultConfig {
-        applicationId "hu.vmiklos.plees_tracker"
+        applicationId "space.tumeo.bath_tracker"
         minSdkVersion 23
         targetSdkVersion 33
         versionCode 46
